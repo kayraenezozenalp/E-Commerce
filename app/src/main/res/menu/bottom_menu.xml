@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/homeFragment"
+        android:title="Home"
+        android:icon="@drawable/baseline_home_24"
+        />
+    <item
+        android:id="@+id/shoppingBasketFragment"
+        android:title="ShoppingBasket"
+        android:icon="@drawable/shoppingbasket"
+        />
+    <item
+        android:id="@+id/searchProductFragment"
+        android:title="Search"
+        android:icon="@drawable/searchic"
+        />
+    <item
+        android:id="@+id/profileFragment"
+        android:title="Profile"
+        android:icon="@drawable/person"
+        />
+</menu>
